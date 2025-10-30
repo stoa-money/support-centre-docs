@@ -2,7 +2,7 @@
 
 ## Strava
 
-#### Pot Info
+### Pot Info
 
 [**Strava**](https://www.strava.com) is the leading app for athletes — helping runners, cyclists, and fitness enthusiasts track their workouts, analyse performance, and stay motivated with a global community.
 
@@ -29,7 +29,7 @@ Gift subscriptions may be redeemed for a one-time annual Strava web subscription
 
 ## Runna
 
-#### Pot Info
+### Pot Info
 
 [**Runna**](https://www.runna.com) is a premium running coaching app that provides personalised training plans, expert guidance, and performance tracking — helping runners of all levels achieve their goals.
 
@@ -44,7 +44,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see here.
+Please see [here](../perk-redemption-instructions-list/health-and-fitness.md#runna).
 
 ### Terms & Conditions
 
