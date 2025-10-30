@@ -10,8 +10,10 @@ hidden: true
 
 *   **\{{ if(subscription) \}}** \[1]:&#x20;
 
-    With this Pot, you can unlock a **\{{ name \}}** gift card by depositing the required amount into your Stoa account.\
-    For example, depositing **\{{ offers\[0].depositAmount \}}** unlocks a **\{{ name \}}** gift card worth **\{{ offers\[0].price \}}** — enough to cover 12 months of **\{{ offers\[0].title \}}** at **\{{ offers\[0].subtitle \}}**.
+    With this Pot, you can unlock a **\{{ name \}}** gift card by depositing the required amount into your Stoa account.
+
+    * **\{{ if offers\[0].subtitle contains "month" \}}** For example, depositing **\{{ offers\[0].depositAmount \}}** unlocks a **\{{ name \}}** gift card worth **\{{ offers\[0].price \}}** — enough to cover 12 months of **\{{ offers\[0].title \}}** at **\{{ offers\[0].subtitle \}}**.
+    * else: For example, depositing **\{{ offers\[0].depositAmount \}}** unlocks a **\{{ name \}}** gift card worth **\{{ offers\[0].price \}}** — enough to cover 12 months of **\{{ offers\[0].title \}}.**
 *   **\{{ if(oneOff) \}}** \[1]:
 
     For every **\{{ offers\[0].price \}}** of gift card value, you'll need a **\{{ offers\[0].depositAmount \}}** deposit.\
@@ -37,7 +39,12 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 
 ## Notes
 
-Variations for switch (in Pot Info for One Off Perks):
+**Netflix example for Pot Info:**\
+[**Netflix**](https://www.netflix.com) is one of the world’s leading streaming services, offering unlimited movies, TV shows, and original content across every genre — ready to watch anytime, anywhere.
+
+With this Pot, you can unlock a **Netflix** gift card by depositing the required amount into your Stoa account. For example, depositing £3,000 unlocks a Netflix gift card worth £155.88 – enough to cover 12 months of Netflix Standard at £12.99/month.
+
+**Variations for switch (in Pot Info for One Off Perks):**
 
 * If subtitle contains "£50,000": The maximum you can deposit is £1m for £50k worth of credit (note that this may be distributed to you in multiple cards).
 * If subtitle contains "£20,000": The maximum you can deposit is £400k for £20k worth of credit (note that this may be distributed to you in multiple cards).

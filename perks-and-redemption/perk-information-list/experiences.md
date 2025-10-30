@@ -17,7 +17,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/experiences.md).
+Please see [here](../perk-redemption-instructions-list/experiences.md#ticketmaster).
 
 ### Terms & Conditions
 
@@ -51,7 +51,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/experiences.md).
+Please see [here](../perk-redemption-instructions-list/experiences.md#virgin).
 
 ### Terms & Conditions
 
