@@ -41,7 +41,7 @@ Key points to note:
 Fly high, rest in style and more – exclusive access to the wonderful world of Virgin, all through one great card. Perfect for extra-special, high-end rewards, the [Virgin Gift Card](https://www.thevirgingiftcard.co.uk) is welcomed at Virgin Atlantic, Virgin Holidays, Virgin Experience Days and even the luxury world of Virgin Limited Edition, meaning living the high life for a spell is just a card redemption away. Ever wanted to spend a week on a private island? The Virgin Gift Card is the way to do it!
 
 For every **£50** of gift card value, you'll need a **£1,000** deposit.\
-For example, a £50 card requires £1,000, a £100 card requires £2,000, and so on. The maximum you can deposit is £1m for £50k worth of credit.
+For example, a £50 card requires £1,000, a £100 card requires £2,000, and so on. The maximum you can deposit is £1m for £50k worth of credit (note that this may be distributed to you in multiple cards).
 
 Your deposit is held securely for **12 months**.\
 Thirty days before your Pot is due to mature, you’ll have two options:
