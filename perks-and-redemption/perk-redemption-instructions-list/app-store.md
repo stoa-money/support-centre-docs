@@ -20,8 +20,6 @@ Only use this gift card's code on Google Play. Any other request for the code ma
 3. Tap Payments and subscriptions and then Redeem gift code.
 4. Enter the code.
 
-To redeem online: 1.&#x20;
-
 #### To redeem online
 
 1. Visit [play.google.com/redeem](https://play.google.com/redeem).
