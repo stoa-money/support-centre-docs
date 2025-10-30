@@ -67,6 +67,7 @@
   * [Beauty](perks-and-redemption/perk-information-list/beauty.md)
   * [Athleisure](perks-and-redemption/perk-information-list/athleisure.md)
   * [Charity & Giving](perks-and-redemption/perk-information-list/charity-and-giving.md)
+* [Other](perks-and-redemption/other.md)
 
 ## Your Account
 
