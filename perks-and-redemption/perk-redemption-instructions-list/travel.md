@@ -19,9 +19,3 @@ Online Only. It requires just a few simple steps to activate:
 3. You will receive by email the voucher code valid for any booking of hotels and flights+hotels packages on [www.lastminute.com](https://www.lastminute.com).
 
 Important: please remember to activate your Pink PIN CODE within 3 months from the date you have received it. Happy travels!
-
-## Uber
-
-1. Go to the Payment Section in the Uber App.
-2. Tap Add Payment Method and select Gift Card.
-3. Enter Gift Code.
