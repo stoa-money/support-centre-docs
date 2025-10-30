@@ -17,7 +17,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/experiences.md#ticketmaster).
+Please see [here](../perk-redemption-instructions-list/arts-and-culture.md#national-art-pass).
 
 ### Terms & Conditions
 
@@ -27,7 +27,7 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 
 Please see [here](https://www.artfund.org/terms-and-conditions/national-art-pass-terms-conditions).
 
-## National Art Pass
+## Tate
 
 ### Pot Info
 
@@ -44,7 +44,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/experiences.md#ticketmaster).
+Please see [here](../perk-redemption-instructions-list/arts-and-culture.md#tate).
 
 ### Terms & Conditions
 

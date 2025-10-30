@@ -17,7 +17,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/experiences.md#ticketmaster).
+Please see [here](../perk-redemption-instructions-list/transport-and-delivery.md#deliveroo).
 
 ### Terms & Conditions
 
@@ -44,7 +44,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/experiences.md#ticketmaster).
+Please see [here](../perk-redemption-instructions-list/transport-and-delivery.md#uber).
 
 ### Terms & Conditions
 
@@ -71,7 +71,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/experiences.md#ticketmaster).
+Please see [here](../perk-redemption-instructions-list/transport-and-delivery.md#uber-eats).
 
 ### Terms & Conditions
 
