@@ -176,4 +176,31 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 
 #### Gift Card Terms & Conditions
 
-Please see [here](https://disneyterms.com/ukdisneyplusgiftcard).
+Please see [here](https://www.apple.com/legal/giftcards/applestore/uk/).
+
+## Apple TV+
+
+### Pot Info
+
+[**Apple TV+**](https://www.apple.com/apple-tv-plus/) is Apple’s premium streaming service, featuring award-winning series, films, and documentaries — all ad-free and available on demand across your Apple devices and smart TVs.
+
+With this Pot, you can unlock an Apple TV+ Subscription by depositing the required amount into your Stoa account.\
+For example, a £2,500 deposit unlocks an Apple TV+ plan worth £119.88 (£9.99/month), giving you 12 months of access to Apple Originals and exclusive content.
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/streaming.md#spotify).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://www.apple.com/legal/giftcards/applestore/uk/).
