@@ -53,3 +53,31 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 #### Gift Card Terms & Conditions
 
 Please see [here](https://support.microsoft.com/en-gb/account-billing/microsoft-gift-cards-terms-and-conditions-94295a5a-a0bb-070e-1d15-2145344b741d).
+
+## Apple Arcade
+
+### For New Apple Arcade Users
+
+1. **Redeem your Apple Gift Card**
+   * On your iPhone, iPad, or Mac, open the App Store app.
+   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
+   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem) to add the balance to your Apple ID.
+   * The gift card value will be added to your Apple ID balance and can be used for subscriptions, apps, or in-app purchases.
+2. **Subscribe to Apple Arcade**
+   * Open the App Store and tap the Arcade tab.
+   * Tap Try It Free or Subscribe, then choose the Individual Plan.
+   * When prompted for payment, ensure Apple ID balance is selected — your subscription will automatically use this balance first.
+3. Enjoy unlimited access to hundreds of ad-free, premium games across iPhone, iPad, Mac, and Apple TV.
+
+### For Existing Apple Arcade Users
+
+1. **Redeem your Apple Gift Card**
+   * On your iPhone, iPad, or Mac, open the App Store app.
+   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
+   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem).
+   * Your gift card value will be added to your Apple ID balance.
+2. **Confirm your Apple Arcade payment method**
+   * Go to Settings → your name → Media & Purchases → View Account → Manage Payments.
+   * Ensure Apple ID balance is listed at the top of your payment methods.
+   * Apple Arcade will automatically draw from your balance before charging any linked card.
+3. Your Apple Arcade subscription will continue as usual, now funded by your Apple ID balance until your credit runs out.

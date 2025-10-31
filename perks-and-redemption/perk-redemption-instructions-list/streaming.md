@@ -132,3 +132,76 @@ If you already have an active YouTube Music subscription paid via your card, you
    * Once your previous plan expires, go to [YouTube Music](https://youtube.com/musicpremium). (Don't worry - because you can reactivate as soon as your existing plan expires, you should have minimal service interruption).
    * Choose the relevant plan (for which you have a Perk for) and ensure that Google Play balance is selected as your payment method.
 4. You’ll now be billed from your Google Play balance instead of your card until your credit runs out.
+
+## Disney+
+
+To redeem the card go to [disneyplus.com/gift](https://disneyplus.com/gift) (you may be prompted to log in or create an account) and follow the on-screen instructions.
+
+To be eligible to redeem a Card, you must be over 18, have a valid email address, be a new, returning or existing subscriber, and you must accept the applicable Disney+ Subscriber Agreement ([disneyplus.com/legal/user-agreement](https://disneyplus.com/legal/user-agreement)), privacy policy, and terms and conditions. To redeem the Card, you must be resident in a territory offering Disney+ which is participating in the Disney+ Gift Card scheme.
+
+For UK residents, to purchase and redeem the card with Disney+ made available in UK, you must be resident in UK.&#x20;
+
+A new eligible Subscriber to Disney+ may redeem a Gift Card by visiting [disneyplus.com/gift](https://disneyplus.com/gift).&#x20;
+
+An existing eligible Subscriber to Disney+ may redeem a Card by logging on to their Disney+ account and adding the Card as a method of payment. Extra member accounts are not eligible for gift card redemption. &#x20;
+
+You must follow the redemption instructions as advised on the Card and as part of the redemption flow. Compatible software, hardware and internet access are required to redeem and use the code.
+
+## Apple Music
+
+### For New Apple Music Users
+
+1. **Redeem your Apple Gift Card**
+   * On your iPhone, iPad, or Mac, open the App Store app.
+   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
+   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem) to add the balance to your Apple ID.
+   * Your gift card value will be added to your Apple ID balance.
+2. **Subscribe to Apple Music**
+   * Open the Apple Music app or visit [music.apple.com](https://music.apple.com).
+   * Tap Try It Free or Subscribe, and choose the Individual Plan.
+   * When prompted for payment, ensure Apple ID balance is selected — your subscription will draw from your redeemed balance first.
+3. Enjoy 12 months of ad-free music streaming, downloads, and curated playlists with Apple Music.
+
+### For Existing Apple Music Users
+
+1. **Redeem your Apple Gift Card**
+   * On your iPhone, iPad, or Mac, open the App Store app.
+   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
+   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem).
+   * Your gift card value will be added to your Apple ID balance.
+2. **Confirm your Apple Music payment method**
+   * Go to Settings → your name → Media & Purchases → View Account → Manage Payments.
+   * Make sure Apple ID balance is at the top of your payment methods list.
+   * Apple Music will automatically draw from your balance before charging your card.
+3. Your Apple Music subscription payments will continue seamlessly, now funded by your Apple ID balance until the credit runs out.
+
+{% embed url="https://www.youtube.com/watch?v=ut2zF7LLdeA" %}
+
+## Apple TV+
+
+### For New Apple TV+ Users
+
+1. **Redeem your Apple Gift Card**
+   * On your iPhone, iPad, or Mac, open the App Store app.
+   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
+   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem) to add the balance to your Apple ID.
+   * The value will be added to your Apple ID balance and can be used for subscriptions, apps, or media purchases.
+2. **Subscribe to Apple TV+**
+   * Open the Apple TV app on your device or go to [tv.apple.com](https://tv.apple.com).
+   * Select Subscribe to Apple TV+ and choose the Individual Plan.
+   * When prompted for payment, ensure Apple ID balance is selected — your subscription will use this balance first.
+3. Start watching Apple Originals and exclusive shows ad-free with Apple TV+.
+
+### For Existing Apple TV+ Users
+
+1. **Redeem your Apple Gift Card**
+   * On your iPhone, iPad, or Mac, open the App Store app.
+   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
+   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem).
+   * The balance will be added to your Apple ID account automatically.
+2. **Check your payment method**
+   * Go to Settings → your name → Media & Purchases → View Account → Manage Payments.
+   * Ensure Apple ID balance is listed at the top of your payment methods.
+   * Apple TV+ will automatically draw from your balance before charging any linked card.
+3. Your Apple TV+ subscription will continue as usual, now funded by your Apple ID balance until the credit runs out.
+
