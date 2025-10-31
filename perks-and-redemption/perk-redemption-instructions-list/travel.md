@@ -27,3 +27,11 @@ To claim on a voucher, book online and enter your unique voucher reference in th
 ### Can I use more than one gift card voucher to make a booking?
 
 Yes – you can put up to five gift cards/vouchers towards a single online booking. If you’d like to use more than five gift cards/vouchers towards a single booking, please [call our in-house travel team](https://www.mrandmrssmith.com/contact).
+
+## Trip.com
+
+1. Select a product on [Trip.com](https://trip.com) and proceed to the checkout.
+2. Select the Gift Card option at checkout.
+3. Enter your card number and PIN code.
+
+Please see the Gift Card FAQ [here](https://uk.trip.com/giftcard/question).

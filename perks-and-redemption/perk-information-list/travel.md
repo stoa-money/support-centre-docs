@@ -93,3 +93,29 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 
 Please see [here](https://www.mrandmrssmith.com/legal#deliveryreturns).
 
+## Trip.com
+
+### Pot Info
+
+[**Trip.com**](https://www.trip.com) is a global travel platform offering great deals on flights, hotels, trains, and holiday packages — helping you plan and book your next adventure with ease and confidence.
+
+For every £50 of gift card value, you'll need a £1,000 deposit.\
+For example, a £50 card requires £1,000, a £100 card requires £2,000, and so on. The maximum you can deposit is £1m for £50,000 worth of credit (may be distributed to you in multiple cards).
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/travel.md#last-minute).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://sg.trip.com/giftcard/guideline).
