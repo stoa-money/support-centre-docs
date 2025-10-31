@@ -56,28 +56,27 @@ Please see [here](https://support.microsoft.com/en-gb/account-billing/microsoft-
 
 ## Apple Arcade
 
-### For New Apple Arcade Users
+### Pot Info
 
-1. **Redeem your Apple Gift Card**
-   * On your iPhone, iPad, or Mac, open the App Store app.
-   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
-   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem) to add the balance to your Apple ID.
-   * The gift card value will be added to your Apple ID balance and can be used for subscriptions, apps, or in-app purchases.
-2. **Subscribe to Apple Arcade**
-   * Open the App Store and tap the Arcade tab.
-   * Tap Try It Free or Subscribe, then choose the Individual Plan.
-   * When prompted for payment, ensure Apple ID balance is selected — your subscription will automatically use this balance first.
-3. Enjoy unlimited access to hundreds of ad-free, premium games across iPhone, iPad, Mac, and Apple TV.
+[**Apple Arcade**](https://www.apple.com/apple-arcade/) gives you unlimited access to hundreds of fun, high-quality games — all ad-free, with no in-app purchases, and playable offline across your iPhone, iPad, Mac, and Apple TV.
 
-### For Existing Apple Arcade Users
+With this Pot, you can unlock an Apple Arcade Subscription by depositing the required amount into your Stoa account.\
+For example, a £1,500 deposit unlocks an Apple Arcade plan worth £83.88 (£6.99/month), giving you full access to premium games and features for 12 months.
 
-1. **Redeem your Apple Gift Card**
-   * On your iPhone, iPad, or Mac, open the App Store app.
-   * Tap your profile icon → Redeem Gift Card or Code, then enter your code.
-   * Alternatively, visit [apple.com/redeem](https://www.apple.com/redeem).
-   * Your gift card value will be added to your Apple ID balance.
-2. **Confirm your Apple Arcade payment method**
-   * Go to Settings → your name → Media & Purchases → View Account → Manage Payments.
-   * Ensure Apple ID balance is listed at the top of your payment methods.
-   * Apple Arcade will automatically draw from your balance before charging any linked card.
-3. Your Apple Arcade subscription will continue as usual, now funded by your Apple ID balance until your credit runs out.
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/gaming.md#xbox).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://www.apple.com/legal/giftcards/applestore/uk/).
