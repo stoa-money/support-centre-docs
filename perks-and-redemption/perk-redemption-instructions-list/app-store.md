@@ -27,3 +27,7 @@ Only use this gift card's code on Google Play. Any other request for the code ma
 3. Click Redeem.
 
 For further details, view this [help article](http://support.google.com/googleplay/answer/3422659).
+
+## Microsoft Store
+
+Go to [microsoft.com/redeem](https://www.microsoft.com/redeem), log into your Microsoft account, and enter the 25-character code provided. Once redeemed, your gift card balance will be available to spend at Microsoft Store online, on Windows, and on Xbox. [Check your account balance](https://account.microsoft.com/billing/payments).
