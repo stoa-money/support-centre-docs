@@ -71,42 +71,38 @@ Please see information from the Spotify Help Centre [here](https://support.spoti
 
 If anything doesn’t work (e.g., “ineligible/region” messages), send Support your **Pot ID**, the **error text**, and **country**—we’ll help you sort it fast.
 
-## Amazon Prime
+## YouTube Premium
 
-### For New Amazon Prime (Annual) Users
+### For New YouTube Premium Users
 
-If you don’t currently have Prime:
+1. Go to [youtube.com/redeem](https://youtube.com/redeem) and enter your code. Follow the on-screen instructions. (Alternatively, you can redeem via the Google Play store by heading to [play.google.com/redeem](https://play.google.com/redeem) or via the Google Play Store app if you are on an Android device).
+2. Go to [youtube.com/premium](https://youtube.com/premium) and select the relevant plan for which you have a Perk for (if your Perk is YouTube Premium Individual, for example, then you should select that plan). You might be eligible for a free 1 month trial period – if so then it will take 1 month for your Google Play balance to be drawn down from.
+3. When the payment window appears,  tap the right arrow button![and then](https://lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=w36-h36)and select your Google Play balance.
+4. Once selected click "BUY" (ensure that your Google Play balance is shown).
 
-1. Go to amazon.co.uk/redeem and sign in.
-2. Enter your gift card code → click **Apply to Your Balance**.
-3. Visit the Amazon Prime sign-up page.
-4. Select **Annual Membership (£95/year)**.
-5. At checkout, your **gift card balance will be used first**.
-6. If the balance covers the full amount → membership activates immediately.
-7. You’ll get a confirmation email from Amazon.
+Please see the screenshots below showing the payment step for additional reference:
 
-### For Existing Amazon Prime (Monthly) Users
+<figure><img src="../../.gitbook/assets/General Redemption Instructions - Google Play (3).png" alt=""><figcaption><p>Step 3</p></figcaption></figure>
 
-If you currently pay monthly:
+<figure><img src="../../.gitbook/assets/General Redemption Instructions - Google Play (4).png" alt=""><figcaption><p>Step 3 <em>(continued...)</em></p></figcaption></figure>
 
-1. Redeem your gift card at amazon.co.uk/redeem.
-2. Go to **Your Account > Prime Membership > Manage Membership**.
-3. Change plan → select **Annual Membership**.
-4. Amazon will switch your billing to the annual plan.
-   * Your gift card balance is used first.
-   * If needed, any remainder comes from your payment method.
-5. Confirmation email will reflect your new annual billing cycle.
+<figure><img src="../../.gitbook/assets/General Redemption Instructions - Google Play (5).png" alt=""><figcaption><p>Step 4</p></figcaption></figure>
 
-### For Existing Amazon Prime (Annual) Users
+<figure><img src="../../.gitbook/assets/General Redemption Instructions - Google Play (6).png" alt=""><figcaption><p>Step 4 <em>(continued...)</em></p></figcaption></figure>
 
-If you already pay annually:
+### For Existing YouTube Premium Users
 
-* Redeem your gift card at amazon.co.uk/redeem.
-* Your balance will sit in your account until your **next renewal date**.
-* When your annual renewal occurs:
-  * Amazon will **use your gift card balance first**.
-  * If your balance is enough, the renewal costs are fully covered.
-  * If not, the remainder will be charged to your backup payment method.
-* You’ll get a renewal confirmation email from Amazon.
+If you already have an active YouTube Premium subscription paid via your card, you’ll need to switch your payment method to your Google Play balance before redeeming your gift credit.
 
-Test3
+1. Cancel your current YouTube Premium subscription:
+   * Go to [YouTube Purchases](https://www.youtube.com/purchases) or open the YouTube app.
+   * Tap your profile picture → Purchases and memberships → YouTube Premium → Deactivate.
+   * Your Premium access will continue until the end of your current billing period.
+2. Redeem your Google Play gift credit:
+   * Open the Google Play Store app.
+   * Tap your profile icon → Payments & subscriptions → Redeem code, then enter your gift code.
+   * The balance will be added to your Google Play account.
+3. Restart your YouTube Premium subscription:
+   * Once your previous plan expires, go to [YouTube Premium](https://www.youtube.com/premium). (Don't worry - because you can reactivate as soon as your existing plan expires, you should have minimal service interruption).
+   * Choose Individual Plan and ensure that Google Play balance is selected as your payment method.
+4. You’ll now be billed from your Google Play balance instead of your card until your credit runs out.

@@ -68,6 +68,7 @@
   * [Athleisure](perks-and-redemption/perk-information-list/athleisure.md)
   * [Charity & Giving](perks-and-redemption/perk-information-list/charity-and-giving.md)
 * [Information (Side Panel) Architecture](perks-and-redemption/information-side-panel-architecture.md)
+* [Misc](perks-and-redemption/misc.md)
 
 ## Your Account
 

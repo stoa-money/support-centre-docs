@@ -66,3 +66,31 @@ Spotify’s Terms & Conditions for Gift Cards, eGift Cards, Premium Codes and PI
 10. In the event of any inconsistency or conflict between these Card Terms and any terms and conditions printed on any Card, these Card Terms shall prevail.
 11. For assistance and questions regarding Cards, go to [support.spotify.com](https://stores.xoxoday.com/stoamoney/vouchers/description/spotify-uk/support.spotify.com).
 
+## YouTube Premium
+
+### Pot Info
+
+[**YouTube Premium**](https://www.youtube.com/premium) gives you an ad-free experience across YouTube and YouTube Music, plus background play and downloads so you can watch and listen wherever you are — uninterrupted.
+
+With this Pot, you can unlock a YouTube Premium subscription by depositing the required amount into your Stoa account.\
+For example, a £3,000 deposit unlocks a YouTube Premium Individual plan worth £155.88 (£12.99/month), giving you full access to premium features for 12 months.
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/streaming.md#spotify).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+We make this Perk available to you using a Google Play gift card. The relevant Terms & Conditions are provided below:
+
+Google Play recharge code purchases are non-refundable. Google Play recharge codes can only be used on the Google Play Store to purchase apps, games, digital content and in-app items available on the Store. Terms and Conditions: See [play.google.com/uk-card-terms](http://play.google.com/uk-card-terms) for privacy policy and full terms. Gift Card is issued by Google Commerce Limited. Valid for UK residents aged 13+. Requires Google Payments account and Internet access. Usable for eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration apply to card. Unless required by law, card is not redeemable for cash or other cards; not reloadable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged or transferred for value. User is responsible for loss of card. For help or to view Google Play card balance, visit [support.google.com/googleplay/go/cardhelp](http://support.google.com/googleplay/go/cardhelp). Only use this gift card's code on Google Play. Any other request for the code may be a scam. Visit [play.google.com/giftcardscam](http://play.google.com/giftcardscam).
