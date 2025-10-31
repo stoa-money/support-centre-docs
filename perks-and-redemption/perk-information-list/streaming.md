@@ -141,7 +141,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/streaming.md#spotify).
+Please see [here](../perk-redemption-instructions-list/streaming.md#disney).
 
 ### Terms & Conditions
 

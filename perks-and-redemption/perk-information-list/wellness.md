@@ -17,7 +17,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/health-and-fitness.md#strava).
+Please see [here](../perk-redemption-instructions-list/wellness.md#treatwell).
 
 ### Terms & Conditions
 

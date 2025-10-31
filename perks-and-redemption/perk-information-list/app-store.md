@@ -71,7 +71,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/app-store.md#google-play-store).
+Please see [here](../perk-redemption-instructions-list/app-store.md#microsoft-store).
 
 ### Terms & Conditions
 
