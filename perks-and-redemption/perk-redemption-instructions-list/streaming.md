@@ -104,5 +104,31 @@ If you already have an active YouTube Premium subscription paid via your card, y
    * The balance will be added to your Google Play account.
 3. Restart your YouTube Premium subscription:
    * Once your previous plan expires, go to [YouTube Premium](https://www.youtube.com/premium). (Don't worry - because you can reactivate as soon as your existing plan expires, you should have minimal service interruption).
-   * Choose Individual Plan and ensure that Google Play balance is selected as your payment method.
+   * Choose the relevant plan (for which you have a Perk for) and ensure that Google Play balance is selected as your payment method.
+4. You’ll now be billed from your Google Play balance instead of your card until your credit runs out.
+
+## YouTube Music
+
+### For New YouTube Music Users
+
+* Go to [youtube.com/redeem](https://youtube.com/redeem) and enter your code. Follow the on-screen instructions. (Alternatively, you can redeem via the Google Play store by heading to [play.google.com/redeem](https://play.google.com/redeem) or via the Google Play Store app if you are on an Android device).
+* Go to [youtube.com/musicpremium](https://youtube.com/musicpremium) and select the relevant plan for which you have a Perk for (if your Perk is YouTube Premium Individual, for example, then you should select that plan). You might be eligible for a free 1 month trial period – if so then it will take 1 month for your Google Play balance to be drawn down from.
+* When the payment window appears,  tap the right arrow button![and then](https://lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=w36-h36)and select your Google Play balance.
+* Once selected click "BUY" (ensure that your Google Play balance is shown).
+
+### For Existing YouTube Music Users
+
+If you already have an active YouTube Music subscription paid via your card, you’ll need to switch your payment method to your Google Play balance before redeeming your gift credit.
+
+1. Cancel your current YouTube Music subscription:
+   * Go to [YouTube Purchases](https://www.youtube.com/purchases) or open the YouTube app.
+   * Tap your profile picture → Purchases and memberships → YouTube Music → Deactivate.
+   * Your YouTube Music access will continue until the end of your current billing period.
+2. Redeem your Google Play gift credit:
+   * Open the Google Play Store app.
+   * Tap your profile icon → Payments & subscriptions → Redeem code, then enter your gift code.
+   * The balance will be added to your Google Play account.
+3. Restart your YouTube Music subscription:
+   * Once your previous plan expires, go to [YouTube Music](https://youtube.com/musicpremium). (Don't worry - because you can reactivate as soon as your existing plan expires, you should have minimal service interruption).
+   * Choose the relevant plan (for which you have a Perk for) and ensure that Google Play balance is selected as your payment method.
 4. You’ll now be billed from your Google Play balance instead of your card until your credit runs out.
