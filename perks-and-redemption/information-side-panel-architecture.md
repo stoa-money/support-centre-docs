@@ -121,3 +121,5 @@ For the best redemption experience, we recommend that you redeem in the checkout
 If you are an existing user on the web, then you will need to cancel your membership and sign up from your Android device once your current plan expires (don't worry though - this should cause minimal service interruption since you can resume your plan the moment it expires).
 
 If you are an existing user and signed up on your Android device, simply redeem your Google Play gift card, and update your preferred payment method to Google Play balance.
+
+For additional information, please refer to the relevant section in our Support Centre [here](redeeming-apple-and-google-play-enabled-perks.md#how-to-use-a-google-play-gift-card-to-redeem-your-perk). Additionally, our support team is available 8am - 11pm, Monday to Sunday, to be on hand to help.

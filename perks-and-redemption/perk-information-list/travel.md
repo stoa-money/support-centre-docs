@@ -137,7 +137,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/travel.md#trip.com).
+Please see [here](../perk-redemption-instructions-list/travel.md#hotels).
 
 ### Terms & Conditions
 

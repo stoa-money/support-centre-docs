@@ -71,7 +71,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/shopping.md#amazon).
+Please see [here](../perk-redemption-instructions-list/shopping.md#selfridges).
 
 ### Terms & Conditions
 
@@ -98,7 +98,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/shopping.md#amazon).
+Please see [here](../perk-redemption-instructions-list/shopping.md#boots).
 
 ### Terms & Conditions
 
@@ -125,7 +125,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/shopping.md#amazon).
+Please see [here](../perk-redemption-instructions-list/shopping.md#ikea).
 
 ### Terms & Conditions
 
