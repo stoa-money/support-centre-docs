@@ -35,3 +35,10 @@ Yes – you can put up to five gift cards/vouchers towards a single online booki
 3. Enter your card number and PIN code.
 
 Please see the Gift Card FAQ [here](https://uk.trip.com/giftcard/question).
+
+## Hotels
+
+1. Head to [https://www.hotelgift.com/en/redeem/](https://www.hotelgift.com/en/redeem/).
+2. Browse the extensive list of top hotels and select your preferred dates.
+3. Proceed through to checkout and enter your hotel gift card value code(s).
+4. Await your booking confirmation via email.

@@ -24,3 +24,11 @@ This gift card can be redeemed online as well as in stores.
 * Once redeemed, your gift card balance cannot be transferred to other accounts.
 
 For more information, please see redemption instruction from Amazon [here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=G5D4TA7NBKQT7GW2).
+
+## Selfridges
+
+To redeem in store, please present the gift card at checkout. If redeeming online, please enter the gift card number as an 'eVoucher' when choosing your payment method.
+
+## Boots
+
+Simply select, 'Boots Gift Card' during your checkout process and enter the 19 digit card number & PIN to redeem. Gift cards can be used as full or part payment. Please see full Terms & Conditions for more information. Using your eGift Card is simple: Redeem Online at [www.Boots.com](https://www.boots.com) or [www.Boots.ie](https://www.boots.ie). Simply select ‘Boots Gift Card’ during your checkout process and enter the 19 digital card number & PIN to redeem.

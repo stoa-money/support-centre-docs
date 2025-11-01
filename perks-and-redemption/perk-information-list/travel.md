@@ -119,3 +119,30 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 #### Gift Card Terms & Conditions
 
 Please see [here](https://sg.trip.com/giftcard/guideline).
+
+## Hotels
+
+### Pot Info
+
+Deposit and get free hotels — have the freedom to book stays at over 750,000 hotels, resorts, and boutique properties in 170+ countries worldwide. Powered by Hotelgift, your voucher can be used directly on [Hotelgift.com](https://hotelgift.com) to choose and book your perfect stay — wherever your travels take you.
+
+For every £50 of flight credit, you'll need a £1,000 deposit.\
+For example, a £50 voucher requires £1,000, a £100 voucher requires £2,000, and so on. The maximum you can deposit is £1m for £50,000 worth of flight credit (distributed to you in up to 5 vouchers).
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/travel.md#trip.com).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://www.hotelgift.com/en/terms-conditions/?srsltid=AfmBOoq5TYKjmgK5KmcVEtZZ8OKte0Sb9GAZ_LYJSITxQfe0C-FST7xf).

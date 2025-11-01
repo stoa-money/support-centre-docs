@@ -87,3 +87,57 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 6. This voucher is redeemable via the Uber app within UK in cities where Uber is available.
 7. For full terms and conditions and detailed list of Uber Policies visit: [https://www.uber.com/legal/en/](https://www.uber.com/legal/en/)
 8. Max ONE voucher can be purchased and only ONE voucher can be redeemed per user at a time.
+
+## Flights
+
+### Pot Info
+
+Deposit and get free, easy to book air travel with over 400 airlines (including all major airlines) that fly to 980+ destinations worldwide. Powered by Flightgift, your voucher can be used directly on [Flightgift.com](https://flightgift.com) to purchase flights with your chosen airline — offering total flexibility and convenience.
+
+For every £50 of flight credit, you'll need a £1,000 deposit.\
+For example, a £50 voucher requires £1,000, a £100 voucher requires £2,000, and so on. The maximum you can deposit is £1m for £50,000 worth of flight credit (distributed to you in up to 5 vouchers).
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see here.
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://www.flightgift.com/en/terms-conditions/?srsltid=AfmBOooitX9iwDxi9coTFiqG4dCLNJv2E8eAUVr_c1Mg7gTiSny-Mgka).
+
+## Trains
+
+### Pot Info
+
+Deposit and get free trains. Travel across the UK and Europe with flexibility and convenience. Powered by Traingift, your voucher can be used directly on [Traingift.com](https://traingift.com) to book journeys with leading train operators — covering thousands of routes and destinations.
+
+For every £50 of flight credit, you'll need a £1,000 deposit.\
+For example, a £50 voucher requires £1,000, a £100 voucher requires £2,000, and so on. The maximum you can deposit is £1m for £50,000 worth of flight credit (distributed to you in up to 5 vouchers).
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/travel.md#trip.com).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://www.traingift.com/en/terms-conditions/?srsltid=AfmBOoqXNhxtpFRgWm-KMfvaLK7zS-MaCFdSEdk20uhSH8Zx8ycFpReh).
