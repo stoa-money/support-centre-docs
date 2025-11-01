@@ -107,3 +107,30 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 #### Gift Card Terms & Conditions
 
 Boots gift cards can be used as full or part payment online. Purchases of other gift cards, vouchers, mobile top up, prescription services or Boots Opticians are excluded. Gift cards expire 24 months after activation. For full Terms & Conditions please visit [www.Boots.com](https://www.boots.com).
+
+## IKEA
+
+### Pot Info
+
+[**IKEA**](https://www.ikea.com) is the world’s leading home furnishings retailer, offering stylish, affordable, and functional furniture and home accessories — designed to make everyday life better.
+
+For every £50 of gift card value, you'll need a £1,000 deposit.\
+For example, a £50 card requires £1,000, a £100 card requires £2,000, and so on. The maximum you can deposit is £200,000 for £10,000 worth of credit (may be distributed to you in multiple cards).
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/shopping.md#amazon).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://www.ikea.com/gb/en/customer-service/terms-conditions/ikea-gift-card-terms-and-conditions-pub01a1bbc0).

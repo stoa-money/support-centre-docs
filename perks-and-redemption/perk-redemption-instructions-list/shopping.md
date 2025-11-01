@@ -32,3 +32,7 @@ To redeem in store, please present the gift card at checkout. If redeeming onlin
 ## Boots
 
 Simply select, 'Boots Gift Card' during your checkout process and enter the 19 digit card number & PIN to redeem. Gift cards can be used as full or part payment. Please see full Terms & Conditions for more information. Using your eGift Card is simple: Redeem Online at [www.Boots.com](https://www.boots.com) or [www.Boots.ie](https://www.boots.ie). Simply select ‘Boots Gift Card’ during your checkout process and enter the 19 digital card number & PIN to redeem.
+
+## IKEA
+
+Head to your nearest IKEA store to redeem your gift card, or redeem online via the checkout at [IKEA.com/GB](https://ikea.com/GB).
