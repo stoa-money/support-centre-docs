@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Information (Side Panel) Architecture
 
 ## Pot Info
