@@ -87,3 +87,8 @@
 ## Other & Miscellaneous
 
 * [General](other-and-miscellaneous/general.md)
+
+## Ops Procedures
+
+* [User Onboarding](ops-procedures/user-onboarding/README.md)
+  * [Soft Rejection](ops-procedures/user-onboarding/soft-rejection.md)
