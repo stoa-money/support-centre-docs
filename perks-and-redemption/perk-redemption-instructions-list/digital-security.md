@@ -6,3 +6,7 @@ Please see information from the NordVPN Support Centre [here](https://support.no
 
 1. Go to [https://my.nordaccount.com/activate](https://my.nordaccount.com/activate)
 2. Follow the on-screen instructions.
+
+## ExpressVPN
+
+Please refer to the ExpressVPN Gift Card FAQs [here](https://www.expressvpn.com/support/manage-account/gift-card-faqs).
