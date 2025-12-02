@@ -90,5 +90,8 @@
 
 ## Ops Procedures
 
+* [Page](ops-procedures/page.md)
 * [User Onboarding](ops-procedures/user-onboarding/README.md)
   * [Soft Rejection](ops-procedures/user-onboarding/soft-rejection.md)
+* [Order Fulfilment](ops-procedures/order-fulfilment/README.md)
+  * [Order Received](ops-procedures/order-fulfilment/order-received.md)
