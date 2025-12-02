@@ -75,3 +75,19 @@ Please refer to the screenshots below for further guidance:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-12-01 at 15.49.38.png" alt=""><figcaption><p>3 – Ensure Google Play balance is turned on</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-12-01 at 15.51.17.png" alt=""><figcaption><p>4 – Finalise subscription purchase</p></figcaption></figure>
+
+### For Existing Google One Users
+
+If you are already paying for the plan which you have chosen, the only action you need to take is as follows:
+
+1. Redeem your Google Play gift card to your Google account.
+2. In your Google One account, navigate to Settings and click 'Change payment method'. This should open your Google Play account in a new tab.
+3. In your Google Play account, click 'Payment methods' and ensure that your Google Play balance is displaying the amount you have redeemed. Google will always draw down from your Google Play balance before charging your linked card.
+
+If you are an existing Google One user but are not on the plan for which you have chosen:
+
+1. Go to [one.google.com/plans](https://one.google.com/plans) (similar to new users).
+2. Select the plan for which you have a Perk for.
+3. Click Upgrade on the relevant plan. Similar to the new user flow, ensure that your Google Play balance is active by following the right-arrow symbol![and then](https://lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=w36-h36)and checking to see if your Google Play balance is turned on.
+4. Proceed with the plan change by clicking Subscribe.
+
