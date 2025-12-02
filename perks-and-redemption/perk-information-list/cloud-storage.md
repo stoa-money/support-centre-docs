@@ -60,6 +60,8 @@ Please see [here](https://www.apple.com/legal/giftcards/applestore/uk/).
 
 [**Google One**](https://one.google.com) is Google’s premium cloud storage and membership service, offering expanded storage across Google Drive, Gmail, and Google Photos — along with added benefits like enhanced security features and premium support.
 
+Please see further information on available plans at [one.google.com/plans](https://one.google.com/plans) – click "more options" for an expanded list. The Google Play gift card provided to you, to unlock your chosen plan, is available for UK only.
+
 With this Pot, you can unlock a **Google One Premium Annual Plan** by depositing the required amount into your Stoa account.\
 For example, a £1,500 deposit unlocks a Google One Premium annual plan, giving you 12 months of expanded storage, advanced backup tools, and exclusive Google One features.
 

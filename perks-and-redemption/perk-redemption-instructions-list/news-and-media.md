@@ -2,7 +2,7 @@
 
 ## Financial Times
 
-Please see [here](https://stoa-1.gitbook.io/stoa-support-centre/perks-and-redemption/redeeming-apple-and-google-play-enabled-perks#perks-that-use-an-apple-gift-card) if subscribing via iPhone, and [here](https://stoa-1.gitbook.io/stoa-support-centre/perks-and-redemption/redeeming-apple-and-google-play-enabled-perks#perks-that-use-a-google-play-gift-card) if subscribing via Android.
+Please see [here](../redeeming-apple-and-google-play-enabled-perks.md#perks-that-use-an-apple-gift-card) if subscribing via iPhone, and [here](../redeeming-apple-and-google-play-enabled-perks.md#perks-that-use-a-google-play-gift-card) if subscribing via Android.
 
 ## The Economist
 

@@ -56,3 +56,22 @@
    * Ensure Apple ID balance is listed at the top of your payment methods.
    * Apple One will automatically draw from your balance before charging any linked card.
 3. Your Apple One plan will continue as normal, now funded by your Apple ID balance until your credit runs out.
+
+## Google One
+
+### For New Google One Users
+
+1. Redeem your Google Play gift card credit to your account by going to [play.google.com/redeem](https://play.google.com/redeem) and following the on-screen instructions (ensure that you are logged in to the account you intend to redeem the credit to).
+2. Go to [one.google.com/plans](https://one.google.com/plans) and select the chosen plan for which you have a relevant Perk for. If you are not already signed in, you will be prompted to sign in. If you cannot see your plan immediately, click "more options" at the bottom for an expanded view.
+3. In the payment window, tap the right-arrow symbol![and then](https://lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=w36-h36)and ensure your Google Play balance is turned on.
+4. Proceed with the payment – when you are charged, Google will draw down from your Google Play balance before charging your card. Don't worry – provided that your Google Play balance is sufficient (which it should be from the Google Play gift card provided to you), your linked card will not be charged.
+
+Please refer to the screenshots below for further guidance:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-12-01 at 15.45.49.png" alt=""><figcaption><p>1 – Select your plan</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-12-01 at 15.49.25.png" alt=""><figcaption><p>2 – Select right arrow symbol next to payment method</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-12-01 at 15.49.38.png" alt=""><figcaption><p>3 – Ensure Google Play balance is turned on</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-12-01 at 15.51.17.png" alt=""><figcaption><p>4 – Finalise subscription purchase</p></figcaption></figure>

@@ -8,7 +8,7 @@ To view the details for a given Pot, simply navigate to your _My Pots_ page and 
 
 ### Pending
 
-This means that your deposit has been successfully received and your gift card codes are in the process of being acquired. (Please see [here](broken-reference) for gift card delivery estimates).
+This means that your deposit has been successfully received and your gift card codes are in the process of being acquired. (Please see [here](/broken/pages/MCroPlDptvRovzizH5KL#how-soon-will-i-receive-my-gift-cards) for gift card delivery estimates).
 
 ### Ready
 
