@@ -10,8 +10,9 @@ This gift card can be redeemed online as well as in stores.
 
 ## Amazon
 
-1. Go to the Amazon webpage. Make sure you are signed into the account that you want to redeem the Gift Card to. If not, sign out and then log back into the correct account.
-2. If delivered via email, select Apply to your Amazon Account. You may be prompted to sign into your account. If delivered via text, select the link to be brought to the redemption page, then Apply to your Amazon Account.
+1. Go to [https://www.amazon.co.uk/gc/redeem](https://www.amazon.co.uk/gc/redeem).
+2. Enter your gift card code and click "Apply to your balance".
+3. Enjoy!
 
 **Note:**
 
@@ -36,3 +37,7 @@ Simply select, 'Boots Gift Card' during your checkout process and enter the 19 d
 ## IKEA
 
 Head to your nearest IKEA store to redeem your gift card, or redeem online via the checkout at [IKEA.com/GB](https://ikea.com/GB).
+
+## John Lewis & Partners
+
+Gift cards can be redeemed in all John Lewis & Partners and Waitrose & Partners stores, as well as online channels for both parties. You cannot use your gift card or e-gift card to purchase from any of the following: John Lewis Gift List, Third-party restaurants and cafes in John Lewis & Partners shops. E-gift cards also cannot be used in The Place to Eat, our Cafés or Espresso bars. John Lewis Home Solutionswaitrosecellar.comwaitroseflorist.comwaitrosegifts.comAll petrol stationsWelcome Break shopsWaitrose & Partners Cookery SchoolThe Waitrose & Partners Farm Shop and Nurserywaitrosegarden.comwaitrosepet.comWaitrose licensed shops in UAEMagazine subscriptionsPhoto printingSoftware downloads on johnlewis.comYou can spend your e-gift card in John Lewis & Partners shops and Waitrose & Partners shops (exclusions apply). Simply present the downloaded e-gift card on your phone or a printed copy of your e-gift card.You can spend your e-gift card at johnlewis.com or waitrose.com, just select e-gift card, then enter the 19 digit number and PIN at the checkout.All E gift cards should be redeemable via scanning the barcode using the EPOS scanner. Card numbers can be inputted manually if required.
