@@ -7,7 +7,9 @@
 [**Financial Times**](https://www.ft.com) is one of the world’s most trusted sources of global business and financial news, offering in-depth analysis, expert commentary, and market insights across web and mobile.
 
 With this Pot, you can unlock a **Financial Times Standard Annual Plan** by depositing the required amount into your Stoa account.\
-For example, a £7,500 deposit unlocks the Financial Times Standard Annual plan, giving you uninterrupted access to premium journalism, in-depth reporting, and digital features for 24 months.\
+For example, a £7,500 deposit unlocks the Financial Times Standard Annual plan, giving you uninterrupted access to premium journalism, in-depth reporting, and digital features for 12 months.
+
+\
 Your subscription will be redeemed using an **Apple App Store** or **Google Play** gift card, depending on your device.
 
 Your deposit is held securely for 12 months.\
