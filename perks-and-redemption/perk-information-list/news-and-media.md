@@ -20,7 +20,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/streaming.md#netflix).
+Please see [here](../perk-redemption-instructions-list/ai-tools.md#chatgpt-apple-app-store) if subscribing via iPhone, and [here](../perk-redemption-instructions-list/learning.md#duolingo-google-play-store) if subscribing via Android.
 
 ### Terms & Conditions
 
@@ -51,7 +51,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see [here](../perk-redemption-instructions-list/streaming.md#netflix).
+Please see [here](../perk-redemption-instructions-list/news-and-media.md#the-times-iphone-apple-app-store) if subscribing via iPhone, and [here](../perk-redemption-instructions-list/learning.md#duolingo-google-play-store) if subscribing via Android.
 
 ### Terms & Conditions
 

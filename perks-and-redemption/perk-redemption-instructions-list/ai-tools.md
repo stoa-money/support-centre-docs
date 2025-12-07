@@ -1,6 +1,6 @@
 # AI Tools
 
-## ChatGPT (Apple App Store)
+## ChatGPT (iPhone / Apple App Store)
 
 A set of generalised redemption instructions, for Perks that we make available to you using Apple gift cards, can be found [here](../redeeming-apple-and-google-play-enabled-perks.md#how-to-use-an-apple-gift-card-to-redeem-your-perk).
 
@@ -28,7 +28,7 @@ If you are already a paying ChatGPT customer via the app on your iPhone, then yo
 
 Ensure that you are enrolled in the correct plan (the price displayed should match your Perk Value).
 
-## ChatGPT (Google Play Store)
+## ChatGPT (Android / Google Play Store)
 
 A set of generalised redemption instructions, for Perks that we make available to you using Google Play gift cards, can be found [here](../redeeming-apple-and-google-play-enabled-perks.md#how-to-use-an-apple-gift-card-to-redeem-your-perk).
 
@@ -59,7 +59,7 @@ If you are already a paying ChatGPT customer via the app on your Android device,
 
 Ensure that you are enrolled in the correct plan (the price displayed should match your Perk Value).
 
-## Perplexity (Apple App Store)
+## Perplexity (iPhone / Apple App Store)
 
 A set of generalised redemption instructions, for Perks that we make available to you using Apple gift cards, can be found [here](../redeeming-apple-and-google-play-enabled-perks.md#how-to-use-an-apple-gift-card-to-redeem-your-perk).
 
@@ -85,7 +85,7 @@ If you are already a paying Perplexity customer via the app on your iPhone, then
 
 Ensure that you are enrolled in the correct plan (the price displayed should match your Perk Value).
 
-## Perplexity (Google Play Store)
+## Perplexity (Android / Google Play Store)
 
 A set of generalised redemption instructions, for Perks that we make available to you using Google Play gift cards, can be found [here](../redeeming-apple-and-google-play-enabled-perks.md#how-to-use-an-apple-gift-card-to-redeem-your-perk).
 
