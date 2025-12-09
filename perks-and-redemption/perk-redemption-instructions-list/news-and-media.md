@@ -96,7 +96,7 @@ A set of generalised redemption instructions, for Perks that we make available t
    3. Proceed with the payment once selected.
 7. Follow the in-app steps to complete your purchase and enjoy your Perk!
 
-### For Existing Financial Times Users
+### For Existing The Times Users
 
 If you started your billing with The Times on the web, you will need to cancel your existing paid plan and re-enrol via the The Times app on your Android device.
 

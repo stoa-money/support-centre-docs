@@ -40,7 +40,7 @@ Please refer to the Google Play gift card Terms & Conditions [here](https://play
 
 [**The Times**](https://www.thetimes.co.uk) is one of the UK’s most established and trusted news publications, offering high-quality journalism across politics, business, culture, sport, and global affairs — available on web, mobile, and tablet.
 
-With this Pot, you can unlock a **12-Month Times Monthly Subscription** by depositing the required amount into your Stoa account.\
+With this Pot, you can unlock a **12-Month The Times Monthly Subscription** by depositing the required amount into your Stoa account.\
 For example, a £7,000 deposit unlocks a full year of digital access to The Times, including premium articles, expert commentary, and subscriber-only features.
 
 Your deposit is held securely for 12 months.\
