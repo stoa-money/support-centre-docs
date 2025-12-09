@@ -2,12 +2,12 @@
 
 ## Deliveroo
 
-1. To redeem your E-Gift Card, enter the unique code on the E-Gift Card at the checkout when you place your next order and your Deliveroo account will be credited with the amount loaded on your E-Gift Card.
+1. To redeem your E-Gift Card, enter the unique code on the E-Gift Card at the checkout when you place your next order. Your Deliveroo account will be credited with the amount loaded on your E-Gift Card.
 2. Once credited to a Deliveroo account E-Gift Cards are non-refundable and non-transferable.
 
 ## Uber
 
-1. Go to the Payment Section in the Uber App.
+1. Go to the Payment Section in the Uber app.
 2. Tap Add Payment Method and select Gift Card.
 3. Enter Gift Code.
 
