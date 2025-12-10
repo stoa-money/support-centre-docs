@@ -115,3 +115,25 @@ If you started your billing with Perplexity on the web, you will need to cancel 
 If you are already a paying Perplexity customer via the app on your Android device, you will need to update your billing settings so that payment is taken from your Google Play balance.
 
 Ensure that you are enrolled in the correct plan (the price displayed should match your Perk Value).
+
+## Perplexity (Digital Code)
+
+### Option 1: Sign In Using the Button (Fastest Method)
+
+1. Open the email you received from **Perplexity**.
+2. Click the **“Sign in”** button in the email.
+3. Your browser will open and you will be logged in automatically.
+4. If prompted, confirm your email address.
+
+> ⚠️ **Important:** This link is only valid for **5 minutes** for security reasons.
+
+### Option 2: Sign In Using the Verification Code (Backup Method)
+
+If the sign-in button does not work:
+
+1. Go to: https://www.perplexity.ai
+2. Click **Sign In**.
+3. Enter your **email address**.
+4. Choose **Enter verification code instead**.
+5. Copy the **verification code** from your email.
+6. Paste it into the website and click **Verify / Continue**.
