@@ -1,6 +1,6 @@
 # Business & Productivity
 
-## ChatGPT
+## Canva
 
 ### Pot Info
 
@@ -16,7 +16,7 @@ Thirty days before your Pot is due to mature, you’ll have two options:
 
 ### Redemption Instructions
 
-Please see here.
+Please see [here](../perk-redemption-instructions-list/business-and-productivity.md#canva).
 
 ### Terms & Conditions
 
