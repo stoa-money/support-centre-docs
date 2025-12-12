@@ -119,3 +119,7 @@ If you are an existing user on the web, then you will need to cancel your member
 If you are an existing user and signed up on your Android device, simply redeem your Google Play gift card, and update your preferred payment method to Google Play balance.
 
 For additional information, please refer to the relevant section in our Support Centre [here](redeeming-apple-and-google-play-enabled-perks.md#how-to-use-a-google-play-gift-card-to-redeem-your-perk). Additionally, our support team is available 8am - 11pm, Monday to Sunday, to be on hand to help.
+
+## Gift Card Terms & Conditions Placeholder – Brand Perks
+
+Please refer to the Terms & Conditions provided at **{merchantUrl}**
