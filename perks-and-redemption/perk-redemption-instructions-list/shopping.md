@@ -44,9 +44,15 @@ Gift cards can be redeemed in all John Lewis & Partners and Waitrose & Partners 
 
 ## Harvey Nichols
 
-1. Validity cannot be extended once expired.
-2. No returns and no refunds on gift cards.
-3. When using a Harvey Nichols Gift Cards (Vouchers), the updated balance will be displayed on the bottom of your receipt.
-4. Harvey Nichols is not responsible for lost, stolen or damaged Gift Cards.
-5. Gift Cards (Vouchers) are treated as cash therefore Harvey Nichols will not accept responsibility in such instances.
-6. For more information and entire details about terms & conditions visit the website [www.harveynichols.com](http://www.harveynichols.com/) or email [cs@xoxoday.com](http://cs@xoxoday.com/).
+### In Store
+
+1. Visit any Harvey Nichols outlet near you and inquire if they accept gift cards.
+2. Choose your preferred denomination.
+3. Show the Gift Cards (Vouchers) during billing to redeem the voucher.
+
+### Online
+
+1. You need your unique gift certificate code, which is part of the gift certificate that was emailed to you as an attachment. It will look something like Z50-Y6K-COS-402.
+2. Browse the store and add items to your cart as you normally would.
+3. Click the '[View Cart](https://www.harveynichols.com/cart.php)' link to view the contents of your shopping cart.
+4. Type your gift certificate code in to the 'Redeem Gift Certificate' box and click 'Go'.
