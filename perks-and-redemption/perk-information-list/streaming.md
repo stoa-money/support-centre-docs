@@ -204,3 +204,74 @@ Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots
 #### Gift Card Terms & Conditions
 
 Please see [here](https://www.apple.com/legal/giftcards/applestore/uk/).
+
+## Apple TV+
+
+### Pot Info
+
+[**Apple TV+**](https://www.apple.com/apple-tv-plus/) is Apple’s premium streaming service, featuring award-winning series, films, and documentaries — all ad-free and available on demand across your Apple devices and smart TVs.
+
+With this Pot, you can unlock an Apple TV+ Subscription by depositing the required amount into your Stoa account.\
+For example, a £2,500 deposit unlocks an Apple TV+ plan worth £119.88 (£9.99/month), giving you 12 months of access to Apple Originals and exclusive content.
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/streaming.md#spotify).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please see [here](https://www.apple.com/legal/giftcards/applestore/uk/).
+
+## Amazon Prime
+
+### Pot Info
+
+[**Amazon Prime**](https://www.amazon.co.uk/amazonprime) gives you fast, free delivery on millions of items, plus access to a wide range of entertainment and exclusive benefits across shopping, streaming, and more.
+
+With this Pot, you can unlock an **Amazon Prime subscription** by depositing the required amount into your Stoa account.\
+Your deposit unlocks Amazon Prime for 12 months, including unlimited next-day delivery, access to Prime Video, Prime Music, Prime Reading, exclusive deals, and more for the duration of the subscription.
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+#### For New Amazon Prime Users
+
+We make Amazon Prime available through Google Play Store credit only. At the present time, this is not possible on Apple devices, and Amazon gift cards cannot be used towards a Prime subscription. Therefore, you require access to an Android device and Google Play account to take advantage of this perk.
+
+1. Ensure that you have the Amazon app downloaded from the app store here and installed on your Android device.
+2. Open your account page. Scroll down and tap _Memberships & Subscriptions._
+3. You should see a promotion for Amazon Prime. Tap the yellow buttons shown to begin your membership (you should see a notice that says "Sign up must be done through Google Play on the mobile app).
+4. When the Google Play payment window appears, tap the right arrow next to your default payment method.
+5. If you have already redeemed the Google Play gift card to your balance, then select Google Play balance. If you are yet to redeem the Google Play gift card, you can do so in the checkout window by clicking _Redeem code._
+6. Once you have successfully applied the Google Play gift card balance to your account, proceed with the payment – ensuring that you have selected Google Play balance as the payment method.
+
+Note: you may be asked if you want to add a backup payment method such as a card on file – feel free to select _No_ if you want to ensure payment is only taken from your Google Play balance (when your Prime subscription is due to renew).
+
+#### For Existing Amazon Prime Users
+
+If you are an existing Amazon Prime user and are paying via your card on the web, you will need to cancel your membership and re-enrol via the Amazon app on an Android device.
+
+Once you have cancelled and your membership has ended, follow the step-by-step instructions provided above for new Amazon Prime users. (Don't worry – you should have minimal service interruption, as you can resume your Amazon Prime membership as soon as your prior membership has expired).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please refer to the Amazon Prime Terms and Conditions [here](https://www.apple.com/legal/giftcards/applestore/uk/).
