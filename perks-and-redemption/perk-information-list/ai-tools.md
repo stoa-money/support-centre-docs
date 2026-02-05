@@ -61,3 +61,30 @@ We make this Perk available to you using an Apple or Google Play gift card, depe
 Please refer to the Apple gift card Terms & Conditions [here](https://www.apple.com/uk/legal/internet-services/itunes/giftcards/uk/terms.html) in the event that you opt for the Apple gift card.
 
 Please refer to the Google Play gift card Terms & Conditions [here](https://play.google/intl/en_uk/card-terms/) in the event that you opt for the Google Play gift card.
+
+## Claude
+
+### Pot Info
+
+[**Claude**](https://www.anthropic.com/claude) is an advanced AI assistant designed to help with writing, coding, analysis, and everyday tasks — built to be helpful, reliable, and safe to use.
+
+With this Pot, you can unlock a **Claude subscription** by depositing the required amount into your Stoa account.\
+Your deposit unlocks access to Claude’s premium features for a 12-month subscription term, giving you enhanced usage limits and priority access throughout the year.
+
+Your deposit is held securely for 12 months.\
+Thirty days before your Pot is due to mature, you’ll have two options:
+
+* **Renew** for another 12-month term (you may need to adjust your deposit amount based on the latest Perk value), or
+* **Withdraw** your deposit once the 12-month term has elapsed.
+
+### Redemption Instructions
+
+Please see [here](../perk-redemption-instructions-list/ai-tools.md#perplexity-apple-app-store).
+
+### Terms & Conditions
+
+Please see [here](https://app.stoa.money/terms-and-conditions) for the Stoa Pots Terms & Conditions.
+
+#### Gift Card Terms & Conditions
+
+Please refer to the Anthropic Terms of Service [here](https://www.anthropic.com/legal/consumer-terms).
