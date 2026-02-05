@@ -137,3 +137,33 @@ If the sign-in button does not work:
 4. Choose **Enter verification code instead**.
 5. Copy the **verification code** from your email.
 6. Paste it into the website and click **Verify / Continue**.
+
+## Claude
+
+Stoa will send you a Claude gift subscription (which behaves identically to a regular, paid Claude subscription)—here's how to redeem it and start using Claude.
+
+### How to redeem your gift <a href="#h_82c3006095" id="h_82c3006095"></a>
+
+1. Open the gift email or link you received.
+2. Click “Redeem your gift.”
+3. Sign in to your Claude account, or create a new account if you don't have one.
+4. Confirm redemption.
+5. You can also redeem directly at [claude.ai/gift/redeem](https://claude.ai/gift/redeem) and enter your gift code.
+
+> ⚠️ **Important:** Your gift link will expire 365 days after the purchase date. It’s not possible to redeem multiple gifts at one time or stack redemptions.
+
+### What happens when you redeem <a href="#h_7b6919fc8e" id="h_7b6919fc8e"></a>
+
+Your experience depends on your current subscription status:
+
+**If you're a new or free user:** Your account is upgraded to the gifted plan immediately. You'll have full access for the duration of the gift.
+
+**If you're a Pro subscriber (web) and receive a Pro gift:** Your Pro subscription is extended by the gift duration.
+
+**If you're a Pro subscriber (web) and receive a Max gift:** You're upgraded to the Max plan for the gift duration. When the gift ends, your Pro subscription resumes. Any unused time from your Pro billing cycle is added as account credit.
+
+**If you're a Max subscriber (web) and receive a lower-tier gift:** The gift value is converted to account credit, which is automatically applied to your future invoices.
+
+**If you're a Max subscriber (web) and receive the same or higher Max tier:** Your Max subscription is extended or upgraded accordingly.
+
+For further information, please refer to the support article provided by Anthropic [here](https://support.claude.com/en/articles/12938695-how-to-redeem-a-claude-gift-subscription).
