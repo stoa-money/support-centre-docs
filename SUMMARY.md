@@ -87,6 +87,7 @@
 ## Other & Miscellaneous
 
 * [General](other-and-miscellaneous/general.md)
+* [Xero Accounting for Gift Cards](other-and-miscellaneous/xero-accounting-for-gift-cards.md)
 
 ## Ops Procedures
 
