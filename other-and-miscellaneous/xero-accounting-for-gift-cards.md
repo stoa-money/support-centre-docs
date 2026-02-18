@@ -2,7 +2,7 @@
 
 ## Amazon Shopping Gift Cards
 
-### Step 1 – Create an "Amazon Gift Card" Account
+### Step 1 (One-off) – Create an "Amazon Gift Card" Account
 
 1. In your Xero account, go to Accounting → Chart of accounts → Add Account.
 2. In the Account set-up:
@@ -79,3 +79,14 @@ You will need to crate **two payments:**
 
 Result: The bill is fully paid, and Xero shows exactly how much was settled by gift card vs bank.
 
+> **Notice:** If you don't see Amazon Gift Card as a Paid from option, you may have forgotten to select Enable payments to this account in Step 1.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Adding second payment</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-18 at 23.18.52.png" alt=""><figcaption><p>Bill fully paid and accounted for</p></figcaption></figure>
+
+### Notes (useful clarifications)
+
+* **VAT:** Amazon invoices are VAT-inclusive in total, but you record them in Xero using net + VAT (if VAT registered). VAT is tied to the _goods purchased_, not the payment method.
+* **No direct integration needed:** Amazon gift cards don’t provide a bank feed. The clean approach is treating the gift card as a prepaid balance (Current Asset) and coding each purchase normally.
+* **If you receive an additional Amazon gift card** (e.g. by opening another Amazon Pot): simply post a new journal debiting the existing **Amazon Gift Card (Current Asset)** account and crediting Other Income for the voucher amount (do not create a new account) and then continue applying payments from that same gift card balance when recording future Amazon bills.
