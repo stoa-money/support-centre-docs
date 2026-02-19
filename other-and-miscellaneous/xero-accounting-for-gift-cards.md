@@ -32,6 +32,8 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Step 2 – Amazon gift card manual journal set-up</p></figcaption></figure>
 
+> **Notice:** Alternatively, instead of posting a manual journal to record the voucher, you may create a bill coded to the existing **Amazon Gift Card (Current Asset)** account to increase the balance, ensuring no new account is created and the value is added to the same gift card account.
+
 ### Step 3 – Each time you buy something off Amazon
 
 **Enter the Amazon invoice as a Bill.**
@@ -87,6 +89,26 @@ Result: The bill is fully paid, and Xero shows exactly how much was settled by g
 
 ### Notes (useful clarifications)
 
-* **VAT:** Amazon invoices are VAT-inclusive in total, but you record them in Xero using net + VAT (if VAT registered). VAT is tied to the _goods purchased_, not the payment method.
+* **VAT:** Amazon shows a VAT-inclusive total on its invoices, but in Xero (if you’re VAT registered) you enter the net amount and apply the appropriate VAT rate so Xero calculates the VAT separately; the VAT relates to the items purchased, not how you paid for them.
 * **No direct integration needed:** Amazon gift cards don’t provide a bank feed. The clean approach is treating the gift card as a prepaid balance (Current Asset) and coding each purchase normally.
 * **If you receive an additional Amazon gift card** (e.g. by opening another Amazon Pot): simply post a new journal debiting the existing **Amazon Gift Card (Current Asset)** account and crediting Other Income for the voucher amount (do not create a new account) and then continue applying payments from that same gift card balance when recording future Amazon bills.
+  * I.e., do Step 2 each time you receive an Amazon gift card (as a result of you opening a new Amazon Pot).
+  * Do Steps 3 and 4 each time you buy something off Amazon.
+
+### Example #2 for entering Amazon invoice data
+
+Given the below example:
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-01-21 at 20.28.53.jpeg" alt=""><figcaption></figcaption></figure>
+
+You would enter the fields when creating a Bill like so:
+
+* From: Amazon
+* Date: 3 January 2026
+* Due date: 3 January 2026
+* Line Item:
+  * Description: Wireless keyboard, for e.g.
+  * Qty: 1.00
+  * Amount: £29.82
+  * Account: 720 - Computer Equipment
+  * Tax rate: 20% (VAT on Expenses), _should auto-populate_
