@@ -2,6 +2,15 @@
 
 ## Amazon Shopping Gift Cards
 
+### Overview
+
+**Conceptually:**\
+An Amazon gift card is treated as a **prepaid asset** in Xero.
+
+* When you receive the gift card, you increase a prepaid balance.
+* When you purchase items from Amazon, you record the full invoice and apply the gift card as a payment method.
+* The accounting category is determined by what you buy – not by the gift card.
+
 ### Step 1 (One-off) – Create an "Amazon Gift Card" Account
 
 1. In your Xero account, go to Accounting → Chart of accounts → Add Account.
@@ -11,7 +20,7 @@
 * Name: Amazon Gift Card
 * Tax: No VAT
 * (Optional) Description: "Prepaid Amazon gift card balance"
-* Make sure to enable it as a payment account (so you can pay bills from it)
+* Tick **Enable payments to this account** so you can select it when recording bill payments
 * Click **Save.**
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-18 at 22.00.09.png" alt=""><figcaption><p>Step 1 – Amazon Account set-up</p></figcaption></figure>
@@ -30,9 +39,11 @@
 
 4. Click **Post.**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Step 2 – Amazon gift card manual journal set-up</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Step 2 – Amazon gift card manual journal set-up</p></figcaption></figure>
 
-> **Notice:** Alternatively, instead of posting a manual journal to record the voucher, you may create a bill coded to the existing **Amazon Gift Card (Current Asset)** account to increase the balance, ensuring no new account is created and the value is added to the same gift card account.
+This increases your Amazon Gift Card balance in Xero and recognises the incentive income.
+
+> **Notice:** Alternatively, instead of posting a manual journal, you can record the voucher using a negative bill and then apply payment into the existing **Amazon Gift Card (Current Asset)** account. See [Step 2 Alternative](xero-accounting-for-gift-cards.md#step-2-alternative-record-the-amazon-gift-card-using-a-bill-instead-of-a-manual-journal) below for full instructions.
 
 ### Step 3 – Each time you buy something off Amazon
 
@@ -55,7 +66,7 @@
 
 4. **Approve** the bill.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Step 3 – Enter the Amazon invoice as a bill</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Step 3 – Enter the Amazon invoice as a bill</p></figcaption></figure>
 
 ### Step 4 – Paying the bill
 
@@ -68,7 +79,7 @@
 
 #### If the order total is greater than the gift card balance
 
-You will need to crate **two payments:**
+You will need to create **two payments:**
 
 * First payment:
   * Paid from: Amazon Gift Card
@@ -89,11 +100,12 @@ Result: The bill is fully paid, and Xero shows exactly how much was settled by g
 
 ### Notes (useful clarifications)
 
-* **VAT:** Amazon shows a VAT-inclusive total on its invoices, but in Xero (if you’re VAT registered) you enter the net amount and apply the appropriate VAT rate so Xero calculates the VAT separately; the VAT relates to the items purchased, not how you paid for them.
+* **VAT:** Amazon invoices display a VAT-inclusive total, but in Xero (if VAT registered) you enter the net amount and apply the appropriate VAT rate so Xero calculates the VAT separately. VAT relates to the goods purchased, not the payment method used.
 * **No direct integration needed:** Amazon gift cards don’t provide a bank feed. The clean approach is treating the gift card as a prepaid balance (Current Asset) and coding each purchase normally.
 * **If you receive an additional Amazon gift card** (e.g. by opening another Amazon Pot): simply post a new journal debiting the existing **Amazon Gift Card (Current Asset)** account and crediting Other Income for the voucher amount (do not create a new account) and then continue applying payments from that same gift card balance when recording future Amazon bills.
   * I.e., do Step 2 each time you receive an Amazon gift card (as a result of you opening a new Amazon Pot).
   * Do Steps 3 and 4 each time you buy something off Amazon.
+* If you are **not VAT registered**, simply enter the full invoice total and select **No VAT** – you will not separate net and VAT.
 
 ### Example #2 for entering Amazon invoice data
 
@@ -117,12 +129,12 @@ You would enter the fields when creating a Bill like so:
 
 1. **Create (or use) an “Incentives / Rewards” income account**
 
-* Go to **Accounting → Chart of accounts**
+* Go to Accounting → Chart of accounts
 * Ensure you have a Revenue account such as **Other Income – Incentives** (No VAT)
 
 2. **Create a new Bill**
 
-* Go to **Purchases → Bills to pay → New Bill**
+* Go to Purchases → Bills to pay → New Bill
 * **From:** create a contact like `Stoa Incentive` (or `Stoa Rewards`)
 * **Date:** voucher received date
 * **Due date:** same day (or any valid date)
@@ -131,8 +143,8 @@ You would enter the fields when creating a Bill like so:
 
 * **Description:** “Amazon voucher received”
 * **Account:** **Other Income – Incentives**
-* **Amount:** **-£50.00** (enter as a negative number)
-* **Tax rate:** **No VAT**
+* **Amount:** -£50.00 (swap £50 for your gift card value – enter as a negative number)
+* **Tax rate:** No VAT
 * Ensure the bill total shows **-£50.00**
 
 4. **Approve the Bill**
@@ -142,8 +154,8 @@ You would enter the fields when creating a Bill like so:
 5. **“Pay” the Bill into the Amazon Gift Card account (to increase the balance)**
 
 * On the approved bill, click **Make a payment**
-* **Paid from:** **Amazon Gift Card (Current Asset)**
-* **Amount:** **£50.00**
+* **Paid from:** Amazon Gift Card (Current Asset)
+* **Amount:** £50.00 (similarly, make sure it matches your gift card value).
 * **Add Payment**
 
 ✅ Result: the **Amazon Gift Card account balance increases by £50**, and the income is recorded to **Other Income – Incentives**, without needing a manual journal.

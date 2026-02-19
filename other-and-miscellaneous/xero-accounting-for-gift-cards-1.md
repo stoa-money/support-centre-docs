@@ -29,6 +29,8 @@ An Amazon gift card is treated as a **prepaid asset** in Xero.
 
 3. Click **Save**
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Step 1 – Amazon Account set-up</p></figcaption></figure>
+
 This account will hold your Amazon gift card balance.
 
 ***
