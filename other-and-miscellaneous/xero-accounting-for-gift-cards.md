@@ -112,3 +112,38 @@ You would enter the fields when creating a Bill like so:
   * Amount: £29.82
   * Account: 720 - Computer Equipment
   * Tax rate: 20% (VAT on Expenses), _should auto-populate_
+
+### Step 2 Alternative: Record the Amazon gift card using a Bill (instead of a Manual Journal)
+
+1. **Create (or use) an “Incentives / Rewards” income account**
+
+* Go to **Accounting → Chart of accounts**
+* Ensure you have a Revenue account such as **Other Income – Incentives** (No VAT)
+
+2. **Create a new Bill**
+
+* Go to **Purchases → Bills to pay → New Bill**
+* **From:** create a contact like `Stoa Incentive` (or `Stoa Rewards`)
+* **Date:** voucher received date
+* **Due date:** same day (or any valid date)
+
+3. **Add a negative line item to recognise the voucher**
+
+* **Description:** “Amazon voucher received”
+* **Account:** **Other Income – Incentives**
+* **Amount:** **-£50.00** (enter as a negative number)
+* **Tax rate:** **No VAT**
+* Ensure the bill total shows **-£50.00**
+
+4. **Approve the Bill**
+
+* Click **Approve**
+
+5. **“Pay” the Bill into the Amazon Gift Card account (to increase the balance)**
+
+* On the approved bill, click **Make a payment**
+* **Paid from:** **Amazon Gift Card (Current Asset)**
+* **Amount:** **£50.00**
+* **Add Payment**
+
+✅ Result: the **Amazon Gift Card account balance increases by £50**, and the income is recorded to **Other Income – Incentives**, without needing a manual journal.
